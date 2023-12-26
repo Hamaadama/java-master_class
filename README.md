@@ -1,2 +1,2 @@
 # java_master_class
-This is my Java projects repository.
+Embarking on a journey towards Java excellence, this documentation encapsulates my progression and endeavors to master the language.
