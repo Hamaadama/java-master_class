@@ -4,8 +4,8 @@ This repository contains code files related to a Java programming course on Udem
 
 ## Course Information
 
-- **Course Name:** [Course Name on Udemy]
-- **Instructor:** [Instructor Name]
+- **Course Name:** Java Masterclass
+- **Instructor:** Tim Buchalka
 
 ## Files Overview
 
@@ -22,7 +22,7 @@ This repository contains code files related to a Java programming course on Udem
    - Purpose: Slightly playing with the String class in Java.
 
 5. **OperatorsOperandsAndExpressions.java**
-   - Purpose: Providing a brief introduction to Java operators, operands, and expressions.
+   - Purpose: Provide a brief introduction to Java operators, operands, and expressions.
 
 6. **AbbreviatingOperators.java**
    - Purpose: Discussing abbreviating operators in Java.
@@ -33,7 +33,7 @@ Feel free to explore and run the code in each file to better understand the conc
 
 ## Course Resources
 
-- [https://www.udemy.com/course/java-the-complete-java-developer-course/](#) (Replace with the actual link)
+- [https://www.udemy.com/course/java-the-complete-java-developer-course/](#)
 - Additional resources provided by the instructor.
 
 ## Contribution
